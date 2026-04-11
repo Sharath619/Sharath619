@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:06b6d4&height=200&section=header&text=Sharath%20Chandra&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=CS%20%26%20Cybersecurity%20%7C%20Full-Stack%20%7C%20AI%20Builder&descAlignY=58&descSize=18&animation=fadeIn" />
+
+
+<!-- Name fallback in case image service is slow -->
+<h1 align="center">👨‍💻 Karnati Sharath Chandra</h1>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -11,15 +13,12 @@
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO.dev)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharath-karnati-0b2552318/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharath619)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karnati.sharath619@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0d9488&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0d9488)
 
 </div>
 
@@ -33,7 +32,7 @@ const sharath = {
   📍  location  : "Hyderabad, Telangana, India",
   🔭  building  : "CortexOS — AI Organizational Intelligence Platform",
   🛡️  focus     : ["Full-Stack Dev", "AI/ML Integration", "Cybersecurity", "Network Security"],
-  💡  stack     : ["React", "FastAPI", "Python", "TypeScript"],
+  💡  stack     : ["React", "FastAPI", "Python", "AI"],
   🤖  ai_tools  : ["LangChain", "ChromaDB", "Groq LLaMA", "RAG Pipelines"],
   🌱  learning  : "Advanced Threat Detection & Agentic AI Systems",
   ⚡  fun_fact  : "I build AI platforms AND forensic tools — because security never sleeps.",
@@ -48,8 +47,8 @@ const sharath = {
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🧠 **[CortexOS](https://github.com/YOUR_USERNAME/cortexos)** | AI Organizational Intelligence Platform — RAG Q&A, real-time threat detection, workload balancer, DevSecOps pipeline | React · FastAPI · ChromaDB · Groq LLaMA |
-| 🔍 **[Browser Forensics Pro](https://github.com/YOUR_USERNAME/browser-forensics-pro)** | Windows desktop forensic tool — multi-browser artifact extraction & timeline reconstruction | Python · PyWebView · SQLite |
+| 🧠 **[CortexOS](https://github.com/Sharath619/CortexOS)** | AI Organizational Intelligence Platform — RAG Q&A, real-time threat detection, workload balancer, DevSecOps pipeline | React · FastAPI · ChromaDB · Groq LLaMA |
+| 🔍 **[Browser Forensics Pro](https://github.com/Sharath619/BFP)** | Windows desktop forensic tool — multi-browser artifact extraction & timeline reconstruction | Python · PyWebView · SQLite |
 
 </div>
 
@@ -91,56 +90,6 @@ const sharath = {
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&bg_color=0f172a&title_color=0d9488&icon_color=06b6d4&text_color=e2e8f0&border_color=1e293b&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&bg_color=0f172a&title_color=0d9488&text_color=e2e8f0&border_color=1e293b&langs_count=6" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&background=0f172a&ring=0d9488&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=e2e8f0&border=1e293b&dates=64748b" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f172a&color=0d9488&line=06b6d4&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 🎵 Spotify — Now Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=false&background_color=0f172a&interchange=true&bar_color=0d9488&bar_color_cover=true" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
